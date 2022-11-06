@@ -1569,7 +1569,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_ASSET_PATHS = "";
-				DEVELOPMENT_TEAM = 82HL67AXQ2;
+				DEVELOPMENT_TEAM = CBPT4GDUNX;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Supporting Files/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -1578,7 +1578,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.5.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.metabolist.metatext;
+				PRODUCT_BUNDLE_IDENTIFIER = ca.tnir.metatext;
 				PRODUCT_NAME = Metatext;
 				SDKROOT = iphoneos;
 				SUPPORTS_MACCATALYST = YES;
@@ -1597,7 +1597,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_ASSET_PATHS = "";
-				DEVELOPMENT_TEAM = 82HL67AXQ2;
+				DEVELOPMENT_TEAM = CBPT4GDUNX;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Supporting Files/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -1606,7 +1606,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.5.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.metabolist.metatext;
+				PRODUCT_BUNDLE_IDENTIFIER = ca.tnir.metatext;
 				PRODUCT_NAME = Metatext;
 				SDKROOT = iphoneos;
 				SUPPORTS_MACCATALYST = YES;
@@ -1670,7 +1670,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Share Extension/Share Extension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2;
-				DEVELOPMENT_TEAM = 82HL67AXQ2;
+				DEVELOPMENT_TEAM = CBPT4GDUNX;
 				GCC_PREPROCESSOR_DEFINITIONS = "DEBUG=1";
 				INFOPLIST_FILE = "Share Extension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
@@ -1680,7 +1680,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.5.1;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.metabolist.metatext.share-extension";
+				PRODUCT_BUNDLE_IDENTIFIER = "ca.tnir.metatext.share-extension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1697,7 +1697,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Share Extension/Share Extension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2;
-				DEVELOPMENT_TEAM = 82HL67AXQ2;
+				DEVELOPMENT_TEAM = CBPT4GDUNX;
 				GCC_PREPROCESSOR_DEFINITIONS = "";
 				INFOPLIST_FILE = "Share Extension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
@@ -1707,7 +1707,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.5.1;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.metabolist.metatext.share-extension";
+				PRODUCT_BUNDLE_IDENTIFIER = "ca.tnir.metatext.share-extension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1725,7 +1725,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Notification Service Extension/Notification Service Extension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2;
-				DEVELOPMENT_TEAM = 82HL67AXQ2;
+				DEVELOPMENT_TEAM = CBPT4GDUNX;
 				INFOPLIST_FILE = "Notification Service Extension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1734,7 +1734,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.5.1;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.metabolist.metatext.notification-service-extension";
+				PRODUCT_BUNDLE_IDENTIFIER = "ca.tnir.metatext.notification-service-extension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1750,7 +1750,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Notification Service Extension/Notification Service Extension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2;
-				DEVELOPMENT_TEAM = 82HL67AXQ2;
+				DEVELOPMENT_TEAM = CBPT4GDUNX;
 				INFOPLIST_FILE = "Notification Service Extension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1759,7 +1759,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.5.1;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.metabolist.metatext.notification-service-extension";
+				PRODUCT_BUNDLE_IDENTIFIER = "ca.tnir.metatext.notification-service-extension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;

@@ -15,7 +15,7 @@
 	<true/>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.metabolist.metatext</string>
+		<string>group.ca.tnir.metatext</string>
 	</array>
 	<key>com.apple.security.network.client</key>
 	<true/>
